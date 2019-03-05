@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">test_hah</string>
+    <string name="email_hint">Электронная почта</string>
+    <string name="password_hint">Пароль</string>
+    <string name="button_enter">ВОЙТИ</string>
+    <string name="item_menu">СОЗДАТЬ</string>
+    <string name="toolbar_title">Авторизация</string>
+    <string name="error_empty_email">Почта не должна быть пустой</string>
+    <string name="error_email_not_valid">Почта должна соответствовать формату</string>
+    <string name="error_password_empty">Пароль не должен быть пустым</string>
+    <string name="error_password_lenght">Пароль должен содержать 6 символов минимум</string>
+    <string name="error_password_pattern">Пароль должен минимум 1 заглавную, 1 строчную букву и 1 цифру</string>
+    <string name="weather_result">Погода</string>
+</resources>
